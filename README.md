@@ -49,4 +49,6 @@
 ## Other Repos
 | Repo | Notes | 
 | :-: | :-: |
-|  | 
+|[Papers and resources for LLMs evaluation](https://github.com/MLGroupJLU/LLM-eval-survey) | Exhaustive list of benchmarks |
+
+ 
