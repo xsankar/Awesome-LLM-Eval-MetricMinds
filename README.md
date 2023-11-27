@@ -1,11 +1,11 @@
 # Awesome-LLM-Eval-MetricMinds
 All things for LLM Evaluation
 ***
-| [Survey papers](##Survey-papers) | General Theory | Evaluation Experiments | Frameworks & Benchmarks by topic | Datasets |
+| [Survey Paper Collection](##survey-papers) | [General Theory](##general-theory) | [Evaluation Experiments](##evaluation-experiments) | [Frameworks & Benchmarks by topic](##Frameworks-&-Benchmarks-by-topic) | [Datasets](##datasets) |
 | :-: | :-: | :-: | :-: |:-: |
 |  |  |  |  |  
 ***
-## Survey papers
+## Survey Papers
 | Year | Title | Notes | 
 | :-: | :-: | :-: |
 |  |  | 
