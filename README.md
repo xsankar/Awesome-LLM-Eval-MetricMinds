@@ -24,7 +24,7 @@
 | -: | :- | :- |
 | 10.2023 | [Evaluating Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2310.19736) | |
 | 7.2023 | [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109) | |
-| 11.2021 | [A Systematic Investigation of Commonsense Knowledge in Large Language Models]([https://arxiv.org/abs/2307.03109](https://arxiv.org/abs/2111.00607)) | EMNLP/Dubai 2022 |
+| 11.2021 | [A Systematic Investigation of Commonsense Knowledge in Large Language Models](https://arxiv.org/abs/2111.00607) | EMNLP/Dubai 2022 |
 ***
 ## General Theory
 | Year | Title | Notes | 
