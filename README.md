@@ -1,7 +1,7 @@
 # Awesome-LLM-Eval-MetricMinds
 All things for LLM Evaluation
 ***
-| [Survey papers](#Survey papers) | General Theory | Evaluation Experiments | Frameworks & Benchmarks by topic | Datasets |
+| [Survey papers](#Survey-papers) | General Theory | Evaluation Experiments | Frameworks & Benchmarks by topic | Datasets |
 | :-: | :-: | :-: | :-: |:-: |
 |  |  |  |  |  
 ***
