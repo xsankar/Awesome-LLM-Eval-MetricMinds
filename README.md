@@ -77,7 +77,7 @@
 | :- | :- | :- |
 |  |  |  |
 ***
-## Datasets [<img src="images/back_button.png" width="15" height="15">](#frameworks--benchmarks-by-topic)
+## Datasets [<img src="images/back_button.png" width="30" height="30">](#frameworks--benchmarks-by-topic)
 | Year | Title | Notes | 
 | :- | :- | :- |
 |  | [Jeopardy Data at Higginface](https://huggingface.co/datasets/jeopardy) |  |
