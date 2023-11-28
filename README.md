@@ -38,8 +38,8 @@
 ***
 ## Multi Benchmark Frameworks
 | Year | Title | Notes | 
-| :-: | :-: | :-: |
-|  |  | 
+| :- | :- | :- |
+| 2023 | [OpenCompass](https://github.com/open-compass/opencompass) | Extensive dataset support, good dataset list |
 ***
 ## Frameworks & Benchmarks by topic
 | Year | Title | Notes | 
