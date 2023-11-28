@@ -39,7 +39,7 @@
 ## Multi Benchmark Frameworks
 | Year | Title | Notes | 
 | :- | :- | :- |
-| 2023 | [MosaicML Eval Gauntlet] (https://www.mosaicml.com/llm-evaluation) | Good eval framework. Encompasses 34 different benchmarks, organized into 6 broad categories of competency that we expect good foundation models to have. |
+| 2023 | [MosaicML Eval Gauntlet](https://www.mosaicml.com/llm-evaluation) | Good eval framework. Encompasses 34 different benchmarks, organized into 6 broad categories of competency that we expect good foundation models to have. |
 | 2023 | [OpenCompass](https://github.com/open-compass/opencompass) | Extensive dataset support, good dataset list |
 ***
 ## Frameworks & Benchmarks by topic
