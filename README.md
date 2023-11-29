@@ -44,7 +44,7 @@
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
 | Year | Title | Notes | 
 | :- | :- | :- |
-| 2023 | [MosaicML Eval Gauntlet](https://www.mosaicml.com/llm-evaluation) | Good eval framework. Encompasses 34 different benchmarks, organized into 6 broad categories of competency that we expect good foundation models to have. |
+| 2023 | [MosaicML Eval Gauntlet](https://www.mosaicml.com/llm-evaluation) | Good eval framework. Encompasses 34 different benchmarks, organized into 6 broad categories of competency that we expect good foundation models to have. Their categorization is very useful - I am borrowing some of their ideas !|
 | 2023 | [OpenCompass](https://github.com/open-compass/opencompass) | Extensive dataset support, good dataset list |
 ***
 ## Frameworks & Benchmarks by topic 
@@ -55,46 +55,47 @@
 ***
 ## World Knowledge 
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
-| Year | Title | Notes | 
-| :- | :- | :- |
-|  |  |  |
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
+| 2022 | Jeopardy | [Jeopardy Data at Higginface](https://huggingface.co/datasets/jeopardy) | Jeopardy consists of 2,117 Jeopardy questions separated into 5 categories: Literature, American History, World History, Word Origins, and Science. The model is expected to give the exact correct response to the question. It was custom curated by MosaicML from a larger Jeopardy set available on Huggingface.|
+| 2019 | MMLU (Measuring Massive Multitask Language Understanding) | [Paper] (https://arxiv.org/abs/2009.03300) | MMLU consists of 14,042 four-choice multiple choice questions distributed across 57 categories. The questions are in the style of academic standardized tests and the model is provided the question and the choices and is expected to choose between A, B, C, and D as its outputs. The subjects range from jurisprudence, to math, to morality |
 ---
 ## Commonsense Reasoning 
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Commonsense reasoning tests the models’ ability to perform basic reasoning tasks that require commonsense knowledge of objects, their properties, and their behavior.
 
-| Year | Title | Notes | 
-| :- | :- | :- |
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
 |  |  |  |
 ---
 ## Language Understanding
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Language understanding tasks evaluate the model’s ability to understand the structure and properties of languages, including determining which types of sentences are more likely than others, performing translations between languages, and identifying languages.
 
-| Year | Title | Notes | 
-| :- | :- | :- |
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
 |  |  |  |
 ---
 ## Symbolic Problem Solving 
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Symbolic problem solving tasks test the model’s ability to solve a diverse range of symbolic tasks including arithmetic, logical reasoning, algorithms, and algebra.
 
-| Year | Title | Notes | 
-| :- | :- | :- |
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
 |  |  |  |
 ---
 ## Math QA 
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
-| Year | Title | Notes | 
-| :- | :- | :- |
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
 |  |  |  |
 ---
 ## Reading Comprehension 
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Reading comprehension benchmarks test a model’s ability to answer questions based on the information in a passage of text. It includes a number of multiple choice benchmarks as well as some benchmarks that require the model to output an exact correct answer.
 
-| Year | Title | Notes | 
-| :- | :- | :- |
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
 |  |  |  |
 ---
 ## Programming
