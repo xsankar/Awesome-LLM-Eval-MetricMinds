@@ -50,24 +50,23 @@
 ## Frameworks & Benchmarks by topic 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
 ---
-| [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) | [Bias](#bias) | [Toxicity](#toxicity) | 
-| :- | :- | :- | :- |:- |:- |
+| [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) | [Bias](#bias) | [Toxicity](#toxicity) | [Dialogue Kinetics](#dialogue-kinetics) |
+| :- | :- | :- | :- |:- |:- |:- |
 ---
 | [World Knowledge](#world-knowledge) | [Commonsense Reasoning](#commonsense-reasoning) | [Language Understanding](#language-understanding) | [Symbolic Problem Solving](#symbolic-problem-solving) |[Math QA](#math-qa) | [Reading Comprehension](#reading-comprehension) | [Programming](programming) |
 | :- | :- | :- | :- |:- |:- | :- |
 ***
 ## Robustness
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
-> TBD
-
+> Emergent Behavior, Robustness
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
 |  | DecodingTrust (Metrics : Adversarial Accuracy, Distributional Shift) |  |
 ---
 ## Factuality
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
-> TBD
-
+> Factuality, Relevance (Context/Question), Coherence, Groundedness, Comprehensiveness
+>  Dark Patterns e.g., CFPB “Luring Test” a.k.a. Dark Patterns : design strategies used to trick consumers during their purchasing experience and guide them to decisions they would not make otherwise - ranging from manipulation to deception
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
 |  | HELM |  |
@@ -75,12 +74,10 @@
 |  | Eleuther Evaluation Harness |  |
 |  | Factool |  |
 |  |  | TruthfulQA |
-
 ---
 ## Hallucination
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > TBD
-
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
 |  |  |  |
@@ -105,6 +102,15 @@
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > TBD
 
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
+|  |  |  |
+---
+## Dialogue Kinetics
+[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+> Manner in which an LLM is interacting with the users
+> Problematic language generation, Bias
+> Tonality, Fluency, Language Mismatch, Verbosity, Egregious Conversation Detector
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
 |  |  |  |
