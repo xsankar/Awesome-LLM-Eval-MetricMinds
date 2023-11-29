@@ -59,6 +59,8 @@
 ## Dialogue Kinetics
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Manner in which an LLM is interacting with the users
+> > a.k.a. _Interactional Dynamics_ - This term encompasses the various elements and factors that come into play during a conversation, including communication styles, tonality, responsiveness, and other aspects that contribute to the overall dynamics of the interaction.
+> > Movement, energy, and interactive nature of communication within a conversation.
 > 
 > Problematic language generation (toxicity below), Bias (below)
 > 
