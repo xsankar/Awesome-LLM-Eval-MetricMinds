@@ -114,7 +114,7 @@
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
 |  | Hallucination Evaluation Model | Vectara [Hugginface](https://huggingface.co/vectara/hallucination_evaluation_model), [Leaderboard](https://github.com/vectara/hallucination-leaderboard) | |
-| | Generative Assessment Project | [Project Site - Arthur.ai](https://www.arthur.ai/gap) | [Interesting dataset - Databricks Dolly 15K] (https://huggingface.co/datasets/databricks/databricks-dolly-15k)|
+| | Generative Assessment Project | [Project Site - Arthur.ai](https://www.arthur.ai/gap) | [Interesting dataset - Databricks Dolly 15K](https://huggingface.co/datasets/databricks/databricks-dolly-15k)|
 ---
 ## Accuracy
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
