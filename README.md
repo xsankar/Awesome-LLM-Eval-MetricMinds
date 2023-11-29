@@ -50,9 +50,60 @@
 ## Frameworks & Benchmarks by topic 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
 ---
+| [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) | [Bias](#bias) | [Toxicity](#toxicity) | 
+| :- | :- | :- | :- |:- |:- |
+---
 | [World Knowledge](#world-knowledge) | [Commonsense Reasoning](#commonsense-reasoning) | [Language Understanding](#language-understanding) | [Symbolic Problem Solving](#symbolic-problem-solving) |[Math QA](#math-qa) | [Reading Comprehension](#reading-comprehension) | [Programming](programming) |
 | :- | :- | :- | :- |:- |:- | :- |
 ***
+## Robustness
+[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+> TBD
+
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
+|  |  |  |
+---
+## Factuality
+[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+> TBD
+
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
+|  |  |  |
+---
+## Hallucination
+[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+> TBD
+
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
+|  |  |  |
+---
+## Accuracy
+[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+> TBD
+
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
+|  |  |  |
+---
+## Bias
+[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+> TBD
+
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
+|  |  |  |
+---
+## Toxicity
+[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+> TBD
+
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
+|  |  |  |
+---
 ## World Knowledge 
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 | Year | Title | Github/Dataset | Notes | 
