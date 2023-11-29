@@ -68,6 +68,7 @@
 ## Language Understanding
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Language understanding tasks evaluate the model’s ability to understand the structure and properties of languages, including determining which types of sentences are more likely than others, performing translations between languages, and identifying languages.
+
 | Year | Title | Notes | 
 | :- | :- | :- |
 |  |  |  |
@@ -75,6 +76,7 @@
 ## Symbolic Problem Solving 
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Symbolic problem solving tasks test the model’s ability to solve a diverse range of symbolic tasks including arithmetic, logical reasoning, algorithms, and algebra.
+
 | Year | Title | Notes | 
 | :- | :- | :- |
 |  |  |  |
@@ -88,6 +90,7 @@
 ## Reading Comprehension 
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Reading comprehension benchmarks test a model’s ability to answer questions based on the information in a passage of text. It includes a number of multiple choice benchmarks as well as some benchmarks that require the model to output an exact correct answer.
+
 | Year | Title | Notes | 
 | :- | :- | :- |
 |  |  |  |
