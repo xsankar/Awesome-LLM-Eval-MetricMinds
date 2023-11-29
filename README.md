@@ -59,6 +59,7 @@
 ## Robustness
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Emergent Behavior, Robustness
+> 
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
 |  | DecodingTrust (Metrics : Adversarial Accuracy, Distributional Shift) |  |
@@ -67,6 +68,7 @@
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Factuality, Relevance (Context/Question), Coherence, Groundedness, Comprehensiveness
 > Dark Patterns e.g., CFPB “Luring Test” a.k.a. Dark Patterns : design strategies used to trick consumers during their purchasing experience and guide them to decisions they would not make otherwise - ranging from manipulation to deception
+> 
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
 |  | HELM |  |
@@ -78,6 +80,7 @@
 ## Hallucination
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > TBD
+> 
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
 |  |  |  |
