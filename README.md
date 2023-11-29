@@ -67,7 +67,7 @@
 ## Factuality
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Factuality, Relevance (Context/Question), Coherence, Groundedness, Comprehensiveness
-> Dark Patterns e.g., CFPB “Luring Test” a.k.a. Dark Patterns : design strategies used to trick consumers during their purchasing experience and guide them to decisions they would not make otherwise - ranging from manipulation to deception
+> Dark Patterns _e.g., CFPB “Luring Test” a.k.a. Dark Patterns : design strategies used to trick consumers during their purchasing experience and guide them to decisions they would not make otherwise - ranging from manipulation to deception_
 > 
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
@@ -112,7 +112,9 @@
 ## Dialogue Kinetics
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Manner in which an LLM is interacting with the users
+> 
 > Problematic language generation (toxicity above), Bias (above)
+> 
 > Tonality, Fluency, Language Mismatch, Verbosity, Egregious Conversation Detector
 > 
 | Year | Title | Github/Dataset | Notes | 
