@@ -50,12 +50,40 @@
 ## Frameworks & Benchmarks by topic 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
 ---
-| [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) | [Bias](#bias) | [Toxicity](#toxicity) | [Dialogue Kinetics](#dialogue-kinetics) |
+| [Dialogue Kinetics](#dialogue-kinetics) | [Bias](#bias) | [Toxicity](#toxicity) | [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) |
 | :- | :- | :- | :- |:- |:- |:- |
 ---
 | [World Knowledge](#world-knowledge) | [Commonsense Reasoning](#commonsense-reasoning) | [Language Understanding](#language-understanding) | [Symbolic Problem Solving](#symbolic-problem-solving) |[Math QA](#math-qa) | [Reading Comprehension](#reading-comprehension) | [Programming](programming) |
 | :- | :- | :- | :- |:- |:- | :- |
 ***
+## Dialogue Kinetics
+[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+> Manner in which an LLM is interacting with the users
+> 
+> Problematic language generation (toxicity below), Bias (below)
+> 
+> Tonality, Fluency, Language Mismatch, Verbosity, Egregious Conversation Detector
+> 
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
+|  |  |  |
+---
+## Bias
+[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+> TBD
+
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
+|  |  |  |
+---
+## Toxicity
+[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+> HAP (Hate,Abuse,Profanity)
+
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
+|  |  |  |
+---
 ## Robustness
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Emergent Behavior, Robustness
@@ -89,34 +117,6 @@
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > TBD
 
-| Year | Title | Github/Dataset | Notes | 
-| :- | :- | :- |:- |
-|  |  |  |
----
-## Bias
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
-> TBD
-
-| Year | Title | Github/Dataset | Notes | 
-| :- | :- | :- |:- |
-|  |  |  |
----
-## Toxicity
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
-> HAP (Hate,Abuse,P)
-
-| Year | Title | Github/Dataset | Notes | 
-| :- | :- | :- |:- |
-|  |  |  |
----
-## Dialogue Kinetics
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
-> Manner in which an LLM is interacting with the users
-> 
-> Problematic language generation (toxicity above), Bias (above)
-> 
-> Tonality, Fluency, Language Mismatch, Verbosity, Egregious Conversation Detector
-> 
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
 |  |  |  |
