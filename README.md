@@ -92,10 +92,9 @@
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Programming tasks evaluate the model's ability to understand code, write functionally correct code given a specification, simulate code, and document code.
 
-| Year | Title | Github | Notes | 
+| Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- | :- |
-| 2022 | HumanEval code generation | | HumanEval consists of 164 python programming challenges, in which the model is presented with the method signature and docstring comment for a python program and is expected to complete the program. We then test the resultant code’s functional correctness on a number of test input/output pairs. |
-| | [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374) | https://github.com/openai/human-eval | [Dataset](https://paperswithcode.com/dataset/humaneval) |
+| 2022 | HumanEval code generation [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)  | [Github](https://github.com/openai/human-eval) [Dataset](https://paperswithcode.com/dataset/humaneval) | HumanEval consists of 164 python programming challenges, in which the model is presented with the method signature and docstring comment for a python program and is expected to complete the program. We then test the resultant code’s functional correctness on a number of test input/output pairs. |
 ***
 ## Datasets 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
