@@ -2,8 +2,8 @@
 #### _[Back to TOC](https://github.com/xsankar/Awesome-Awesome-LLM)_
 > [About Me](https://www.linkedin.com/in/ksankar) [Blog](https://ksankar.medium.com)
 ***
-| [Survey Paper Collection](#survey-papers) | [General Theory](#general-theory) | [Evaluation Experiments](#evaluation-experiments) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) |[Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) |
-| :-: | :-: | :-: | :-: |:-: |:-: |:-: |
+| [Survey Paper Collection](#survey-papers) | [General Theory](#general-theory) | [Evaluation Experiments](#evaluation-experiments) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) |[Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) | [Data Leakage](#data-leakage)|
+| :-: | :-: | :-: | :-: |:-: |:-: |:-: |:-: |:-: |
 ***
 ### Some Concepts
 ![OpenAI](./images/NPS-v07-p26.png)
@@ -16,7 +16,7 @@
 ***
 ![OpenAI](./images/NPS-v07-p31.png)
 ***
-| [Survey Paper Collection](#survey-papers) | [General Theory](#general-theory) | [Evaluation Experiments](#evaluation-experiments) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) |[Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) | [Data Leakags](#data-leakage)|
+| [Survey Paper Collection](#survey-papers) | [General Theory](#general-theory) | [Evaluation Experiments](#evaluation-experiments) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) |[Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) | [Data Leakage](#data-leakage)|
 | :-: | :-: | :-: | :-: |:-: |:-: |:-: |:-: |:-: |
 ***
 ## Survey Papers 
@@ -230,8 +230,9 @@
 ***
 ## Data Leakage 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
+>
 | Type | Year | Title | Notes | 
-| :-: | :-: | :-: |
+| :-: | :-: | :-: |:-: |
 | Training data leakage | 2023 | [ChatGPT Can Reveal Personal Information From Real People, Google Researchers Show](https://www.vice.com/en/article/88xe75/chatgpt-can-reveal-personal-information-from-real-people-google-researchers-show) |  |
 | Training data leakage | 2023 | [LLMs do not disclose training dataset; Nonetheless, Enron Email is a good bet (Wang et al. (2023)](arXiv:2306.11698) | May be common crawl or Pile |
 | Personal Data |  | DecodingTrust | Enron Email Dataset created by Huang at al. (2022) arXiv:2205.12628v2 |
