@@ -56,7 +56,7 @@
 | [Dialogue Kinetics](#dialogue-kinetics) | [Bias](#bias) | [Toxicity](#toxicity) | [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) |
 | :- | :- | :- | :- |:- |:- |:- |
 ---
-| [World Knowledge](#world-knowledge) | [Commonsense Reasoning](#commonsense-reasoning) | [Language Understanding](#language-understanding) | [Symbolic Problem Solving](#symbolic-problem-solving) |[Math QA](#math-qa) | [Reading Comprehension](#reading-comprehension) | [Programming](programming) |
+| [World Knowledge](#world-knowledge) | [Commonsense Reasoning](#commonsense-reasoning) | [Language Understanding](#language-understanding) | [Symbolic Problem Solving](#symbolic-problem-solving) | [Reading Comprehension](#reading-comprehension) | [Programming](programming) |
 | :- | :- | :- | :- |:- |:- | :- |
 ***
 ## Dialogue Kinetics
@@ -145,7 +145,12 @@
 
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
-|  |  |  |
+| 2022 | BIG-bench: Strategy QA | BIG-bench strategy QA consists of 2,289 very eclectic yes/no questions on a wide range of commonsense subjec e.g “Can fish get Tonsilitis?” |
+| 2022 | BIG-bench: Strange Stories | | BIG-bench strange stories consists of 174 short stories followed by a two-choice multiply choice question in which the model is asked to make commonsense inferences about the characters in the stories, how they might feel, and why they act in certain ways. Random baseline accuracy: 50% |
+| 2022 | BIG-bench: Novel Concepts | | BIG-bench novel concepts consists or 32 find-the-common-concept problems in which the model is given 3 words and has to choose from among 4 possible concepts that they all have in common. Random baseline accuracy: 25% |
+| 2011 | COPA | | COPA consists of 100 cause/effect multiple choice questions in which the model is prompted with a premise and the model must choose correctly between two possible causes/effects of the premise. Random baseline accuracy: 50% |
+| 2019 | PIQA | PIQA consists of 1,838 commonsense physical intuition 2-choice multiple choice questions. Random baseline accuracy: 50%|
+| 2018 | OpenBook QA |  | OpenBook QA consists of 500 four-choice multiple choice questions that rely on basic physical and scientific intuition about common objects and entities. Random baseline accuracy: 25% |
 ---
 ## Language Understanding
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
@@ -159,12 +164,6 @@
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Symbolic problem solving tasks test the model’s ability to solve a diverse range of symbolic tasks including arithmetic, logical reasoning, algorithms, and algebra.
 
-| Year | Title | Github/Dataset | Notes | 
-| :- | :- | :- |:- |
-|  |  |  |
----
-## Math QA 
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
 |  |  |  |
