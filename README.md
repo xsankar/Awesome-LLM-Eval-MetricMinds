@@ -16,8 +16,8 @@
 ***
 ![OpenAI](./images/NPS-v07-p31.png)
 ***
-| [Survey Paper Collection](#survey-papers) | [General Theory](#general-theory) | [Evaluation Experiments](#evaluation-experiments) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) |[Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) |
-| :-: | :-: | :-: | :-: |:-: |:-: |:-: |
+| [Survey Paper Collection](#survey-papers) | [General Theory](#general-theory) | [Evaluation Experiments](#evaluation-experiments) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) |[Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) |
+| :-: | :-: | :-: | :-: |:-: |:-: |:-: |:-: |
 ***
 ## Survey Papers 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
@@ -39,6 +39,12 @@
 | Year | Title | Notes | 
 | -: | :- | :- |
 | 11.2021 | [A Systematic Investigation of Commonsense Knowledge in Large Language Models](https://arxiv.org/abs/2111.00607) | EMNLP/Dubai 2022 | 
+***
+## Guardrail Platforms
+[<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
+| Type | Title | Notes | 
+| -: | :- | :- |
+| Evaluation Guardrail | [Trulens](https://www.trulens.org/) | By TruEra | 
 ***
 ## Multi Benchmark Frameworks 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
@@ -150,6 +156,7 @@
 > 
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
+|  | LogicGLUE | [Paper](https://arxiv.org/abs/2310.00836v2) | |
 | 2022 | BIG-bench: Strategy QA | | BIG-bench strategy QA consists of 2,289 very eclectic yes/no questions on a wide range of commonsense subjec e.g “Can fish get Tonsilitis?” |
 | 2022 | BIG-bench: Strange Stories | | BIG-bench strange stories consists of 174 short stories followed by a two-choice multiply choice question in which the model is asked to make commonsense inferences about the characters in the stories, how they might feel, and why they act in certain ways. Random baseline accuracy: 50% |
 | 2022 | BIG-bench: Novel Concepts | | BIG-bench novel concepts consists or 32 find-the-common-concept problems in which the model is given 3 words and has to choose from among 4 possible concepts that they all have in common. Random baseline accuracy: 25% |
