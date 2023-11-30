@@ -89,9 +89,11 @@
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > HAP (Hate,Abuse,Profanity)
 
-| Year | Title | Github/Dataset | Notes | 
-| :- | :- | :- |:- |
-|  |  |  |
+| Type | Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- | :- |:- |
+| Toxicity Generation |  | HELM | Data - RealToxicityPrompts | Scoring method: Model scoring with Perspective API |
+| Toxicity Generation |  | DecodingTrust | Data - RealToxicityPrompts | Scoring method: Model scoring with Perspective API |
+| Toxicity Score |  | BLEU framework | [Hugging Face based Toxicity Score](https://huggingface.co/spaces/evaluate-measurement/toxicity) | (Metrics : BLEU Score, WER) |
 ---
 ## Robustness
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
