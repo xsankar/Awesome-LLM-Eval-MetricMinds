@@ -46,7 +46,12 @@
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
 | Type | Title | Notes | 
 | -: | :- | :- |
-| Evaluation Guardrail | [Trulens](https://www.trulens.org/) | By TruEra | 
+| Evaluation Guardrail | [Trulens](https://www.trulens.org/) | By TruEra. Truthfulness, Question answering relevance, Harmful or toxic language, User sentiment, Language mismatch, Response verbosity, LLM Augmentation | 
+| Prompt Injection | [Rebuff](https://guthub.com/protectai/rebuff) | By Protect AI. Open source – self hardening prompt injection detector | 
+| PII Scrubber | [LLM Gateway](https://github.com/wealthsimple/llm-gateway) | Tracks data sent and received from these providers in a postgres database and runs PII scrubbing heuristics prior to sending | 
+| PII Scrubber | [Azure Presidio](https://microsoft.github.io/presidio/) | Micro$oft | 
+| Guardrails.ai | [Guardrail](https://github.com/guardrails-ai/guardrails)| [Nvidia nemo + Guardrails](https://arize.com/blog-course/guardrails-what-are-they-and-how-can-you-use-nemo-and-guardrails-ai-to-safeguard-llms/) | 
+| Guardrail | [Nvidia Nemo Framework](https://developer.nvidia.com/nemo) | Monitoring communication in both directions, Topical guardrails, Safety guardrails (response), Security guardrails (malicious code) |
 ***
 ## Multi Benchmark Frameworks 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
@@ -122,11 +127,11 @@
 > 
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
-|  | HELM |  |
-|  | BigBench |  |
-|  | Eleuther Evaluation Harness |  |
-|  | Factool |  |
-|  |  | TruthfulQA |
+|  | HELM |  | |
+|  | BigBench |  | |
+|  | Eleuther Evaluation Harness |  | |
+|  | Factool - Factuality Detection & Verification Framework | [GitHub](https://github.com/GAIR-NLP/factool) | Open Source – Fact Checker Meta/CMU |
+|  |  | TruthfulQA | |
 ---
 ## Hallucination
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
@@ -134,7 +139,7 @@
 > 
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
-|  | Hallucination Evaluation Model | Vectara [Hugginface](https://huggingface.co/vectara/hallucination_evaluation_model), [Leaderboard](https://github.com/vectara/hallucination-leaderboard) | |
+|  | Hallucination Evaluation Model | Vectara [Hugginface](https://huggingface.co/vectara/hallucination_evaluation_model), [Leaderboard](https://github.com/vectara/hallucination-leaderboard) | Hallucination Evaluation Model - evaluates how often an LLM introduces hallucinations when summarizing a document |
 | | Generative Assessment Project | [Project Site - Arthur.ai](https://www.arthur.ai/gap) | [Interesting dataset - Databricks Dolly 15K](https://huggingface.co/datasets/databricks/databricks-dolly-15k)|
 ---
 ## Accuracy
