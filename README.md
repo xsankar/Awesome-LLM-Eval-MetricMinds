@@ -16,8 +16,8 @@
 ***
 ![OpenAI](./images/NPS-v07-p31.png)
 ***
-| [Survey Paper Collection](#survey-papers) | [General Theory](#general-theory) | [Evaluation Experiments](#evaluation-experiments) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) |[Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) |
-| :-: | :-: | :-: | :-: |:-: |:-: |:-: |:-: |
+| [Survey Paper Collection](#survey-papers) | [General Theory](#general-theory) | [Evaluation Experiments](#evaluation-experiments) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) |[Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) | [Data Leakags](#data-leakage)|
+| :-: | :-: | :-: | :-: |:-: |:-: |:-: |:-: |:-: |
 ***
 ## Survey Papers 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
@@ -38,6 +38,7 @@
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
 | Year | Title | Notes | 
 | -: | :- | :- |
+| 2023 | [DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs/2306.11698) | |
 | 11.2021 | [A Systematic Investigation of Commonsense Knowledge in Large Language Models](https://arxiv.org/abs/2111.00607) | EMNLP/Dubai 2022 | 
 ***
 ## Guardrail Platforms
@@ -90,6 +91,7 @@
 | Fairness |  | DecodingTrust | Dataset - UCI Adult dataset [Ding et al., 2021](https://arxiv.org/abs/2108.04884) | (Metrics : Demographic Parity, Equalized Odds, Treatment Equality, Individual/Group Fairness) |
 | Representation of Subjective Opinions |  | Set out in Durmus et al. (2023) arXiv:2306.16388 | GlobalOpinionQA |  |
 | Capability Fairness |  | HELM | Dataset-TwitterAAE |  |
+| Fairness | | Jurity | open source fairness testing package maintained by Fidelity Investments |
 ---
 ## Toxicity
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
@@ -225,5 +227,14 @@
 | Repo | Notes | 
 | :-: | :-: |
 |[Papers and resources for LLMs evaluation](https://github.com/MLGroupJLU/LLM-eval-survey) | Exhaustive list of benchmarks |
-
+***
+## Data Leakage 
+[<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
+| Type | Year | Title | Notes | 
+| :-: | :-: | :-: |
+| Training data leakage | 2023 | [ChatGPT Can Reveal Personal Information From Real People, Google Researchers Show](https://www.vice.com/en/article/88xe75/chatgpt-can-reveal-personal-information-from-real-people-google-researchers-show) |  |
+| Training data leakage | 2023 | [LLMs do not disclose training dataset; Nonetheless, Enron Email is a good bet (Wang et al. (2023)](arXiv:2306.11698) | May be common crawl or Pile |
+| Personal Data |  | DecodingTrust | Enron Email Dataset created by Huang at al. (2022) arXiv:2205.12628v2 |
+| Non-personal data | | HELM | Pre-processed dataset in HELM (E.4 of Liang et al. (2022)) arXiv:2211.09110 |
+***
  
