@@ -142,7 +142,6 @@
 ## Commonsense Reasoning 
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Commonsense reasoning tests the models’ ability to perform basic reasoning tasks that require commonsense knowledge of objects, their properties, and their behavior.
-
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
 | 2022 | BIG-bench: Strategy QA | | BIG-bench strategy QA consists of 2,289 very eclectic yes/no questions on a wide range of commonsense subjec e.g “Can fish get Tonsilitis?” |
