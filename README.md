@@ -27,6 +27,7 @@
 | 10.2023 | [Evaluating Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2310.19736) | |
 | 7.2023 | [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109) | |
 | 11.2022 | [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110) |  |
+| 2021 | [A Systematic Investigation of Commonsense Knowledge in Large Language Models](https://arxiv.org/abs/2111.00607) |  |
 ***
 ## General Theory 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
@@ -60,8 +61,8 @@
 ## Frameworks & Benchmarks by topic 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
 ---
-| [Dialogue Kinetics](#dialogue-kinetics) | [Bias](#bias) | [Toxicity](#toxicity) | [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) |
-| :- | :- | :- | :- |:- |:- |:- |
+| [Dialogue Kinetics](#dialogue-kinetics) | [Bias](#bias) | [Toxicity](#toxicity) | [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) | [Alignment](#alignment) |
+| :- | :- | :- | :- |:- |:- |:- | :- |
 ---
 | [World Knowledge](#world-knowledge) | [Commonsense Reasoning](#commonsense-reasoning) | [Language Understanding](#language-understanding) | [Symbolic Problem Solving](#symbolic-problem-solving) | [Reading Comprehension](#reading-comprehension) | [Programming](programming) |
 | :- | :- | :- | :- |:- |:- |
@@ -141,6 +142,14 @@
 | :- | :- | :- |:- |
 |  |  |  | Metrics : Perplexity, Entropy, BPC |
 ---
+## Alignment
+[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+> TBD
+>
+| Year | Title | Github/Dataset | Notes | 
+| :- | :- | :- |:- |
+| 2023 | [FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets](https://arxiv.org/abs/2307.10928) | [GitHub](https://github.com/kaistAI/FLASK) |  |
+---
 ## World Knowledge 
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 | Year | Title | Github/Dataset | Notes | 
@@ -162,7 +171,9 @@
 | 2022 | BIG-bench: Strategy QA | | BIG-bench strategy QA consists of 2,289 very eclectic yes/no questions on a wide range of commonsense subjec e.g “Can fish get Tonsilitis?” |
 | 2022 | BIG-bench: Strange Stories | | BIG-bench strange stories consists of 174 short stories followed by a two-choice multiply choice question in which the model is asked to make commonsense inferences about the characters in the stories, how they might feel, and why they act in certain ways. Random baseline accuracy: 50% |
 | 2022 | BIG-bench: Novel Concepts | | BIG-bench novel concepts consists or 32 find-the-common-concept problems in which the model is given 3 words and has to choose from among 4 possible concepts that they all have in common. Random baseline accuracy: 25% |
+| 2019 | [SocialIQA: Commonsense Reasoning about Social Interactions](https://arxiv.org/abs/1904.09728) |  | Evaluates social common sense |
 | 2019 | PIQA | | PIQA consists of 1,838 commonsense physical intuition 2-choice multiple choice questions. Random baseline accuracy: 50%|
+| 2019 | HellaSwag | [HellaSwag: Can a Machine Really Finish Your Sentence?](https://arxiv.org/abs/1905.07830) | Evaluate physical, grounded, and temporal common sense |
 | 2018 | OpenBook QA |  | OpenBook QA consists of 500 four-choice multiple choice questions that rely on basic physical and scientific intuition about common objects and entities. Random baseline accuracy: 25% |
 | 2011 | COPA | | COPA consists of 100 cause/effect multiple choice questions in which the model is prompted with a premise and the model must choose correctly between two possible causes/effects of the premise. Random baseline accuracy: 50% |
 ---
@@ -175,10 +186,10 @@
 | 2022 | BIG bench conceptual combinations |  | BIG bench conceptual combinations consists of 103 four-choice multiple choice questions in which the model is presented with a made up word and its definition along with a multiple choice question regarding the meaning of a sentence using that made up word. The model is then expected to select the correct answer among the choices presented.Random baseline accuracy: 25%|
 | 2022 | BIG bench conlang translation |  | BIG bench conlang translation consists of 164 example problems in which the model is given translations of simple sentences between English and some fake constructed language. The model is then tested for its ability to translate a complex sentence in the fake language into English.|
 | 2019 | HellaSwag |  | HellaSwag consists of 10,042 multiple choice scenarios in which the model is prompted with a scenario and choose the most likely conclusion to the scenario from four possible options. Random baseline accuracy: 25% |
+| 2019 | [WinoGrande: An Adversarial Winograd Schema Challenge at Scale](https://arxiv.org/abs/1907.10641) |  | Examines physical and social common sense. The Winogrande consists of 1,267 scenarios in which two possible beginnings of a sentence are presented along with a single ending. Both combinations are syntactically valid, but only one is semantically valid, and the model must choose the one that is semantically valid. Random baseline accuracy: 50%|
 | 2016 | LAMBADA |  | LAMBADA consists of 5,153 passages take from books. The model is expected to read the first N-1 words of each passage and predict the final token.|
 | 2012 | BIG bench language identification |  | BIG bench language identification consists of 10,000 four-choice multiple choice questions in which a sentence in some language besides english is presented and the model is prompted to identify the language of the sentence amongst four options. Random baseline accuracy: 25% |
 | 2012 | Winograd Schema Challenge |  | The Winograd Schema Challenge consists of 273 scenarios in which the model must use semantics to correctly resolve the anaphora in a sentence. Two possible beginnings to a sentence are presented as well as an ending. Both involve some anaphora being resolved in a different way, only one of which would be semantically valid, and the model must choose which option produces the valid resolution. Random baseline accuracy: 50% |
-| 2012 | Winogrande |  | The Winogrande consists of 1,267 scenarios in which two possible beginnings of a sentence are presented along with a single ending. Both combinations are syntactically valid, but only one is semantically valid, and the model must choose the one that is semantically valid. Random baseline accuracy: 50%|
 ---
 ## Symbolic Problem Solving 
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
@@ -225,14 +236,14 @@
 ## Other Repos 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
 | Repo | Notes | 
-| :-: | :-: |
+| :- | :- |
 |[Papers and resources for LLMs evaluation](https://github.com/MLGroupJLU/LLM-eval-survey) | Exhaustive list of benchmarks |
 ***
 ## Data Leakage 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
 >
 | Type | Year | Title | Notes | 
-| :-: | :-: | :-: |:-: |
+| :- | :- | :- | :- |
 | Training data leakage | 2023 | [ChatGPT Can Reveal Personal Information From Real People, Google Researchers Show](https://www.vice.com/en/article/88xe75/chatgpt-can-reveal-personal-information-from-real-people-google-researchers-show) |  |
 | Training data leakage | 2023 | [LLMs do not disclose training dataset; Nonetheless, Enron Email is a good bet (Wang et al. (2023)](arXiv:2306.11698) | May be common crawl or Pile |
 | Personal Data |  | DecodingTrust | Enron Email Dataset created by Huang at al. (2022) arXiv:2205.12628v2 |
