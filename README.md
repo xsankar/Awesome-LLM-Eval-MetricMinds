@@ -122,11 +122,10 @@
 ## Accuracy
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > TBD
-
+>
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
 |  |  |  | Metrics : Perplexity, Entropy, BPC |
-
 ---
 ## World Knowledge 
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
@@ -169,10 +168,19 @@
 ## Symbolic Problem Solving 
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Symbolic problem solving tasks test the model’s ability to solve a diverse range of symbolic tasks including arithmetic, logical reasoning, algorithms, and algebra.
-
+>
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
-|  |  |  |
+| 2023 | Simple arithmetic with spaces |  | Simple arithmetic with spaces was developed by MosaicML. It consists of 1000 arithmetic problems consisting of up to 3 operations and using numbers of up to 3 digits. There is spacing between all numbers and operators. The model is expected to calculate the correct result of the expression using the appropriate order of operations|
+| 2023 | Simple arithmetic without spaces |  | Simple arithmetic without spaces was developed by MosaicML. It consists of 1000 arithmetic problems consisting of up to 3 operations and using numbers of up to 3 digits. There is no spacing between any of the numbers and operators. The model is expected to calculate the correct result of the expression using the appropriate order of operations.|
+| 2022 | BIG-bench elementary math QA |  | Big bench elementary math QA consists of 38,160 four-choice multiple choice arithmetic word problems.Random baseline accuracy: 25%|
+| 2022 | BIG-bench dyck languages |  | Big bench dyck languages consists of 1000 complete-the-sequence questions, in which a partially completed balanced expression consisting of parentheses and braces is given, and the model needs to output the exact tokens necessary in order to complete the balanced expression.|
+| 2022 | BIG-bench  algorithms |  | Big bench cs algorithms consists of 1,320 samples of questions falling into one of two types. In the first type the model must determine the length of the longest common subsequence of two strings, and in the second type the model must determine whether an expression consisting of parentheses and braces is balanced.|
+| 2022 | BIG-bench logical deduction |  | Big bench logical deduction consists of 1500 four-choice multiple choice questions, in which the model is posed with a number of logical constraints describing the relative ordering of some number of objects. The model must then choose from among a list of four statements, which statement is the only one that is logically consistent with the constraints posed.Random baseline accuracy: 25%|
+| 2022 | BIG-bench operators |  | Big bench logical operators consists of 210 questions, in which a number of mathematical operators are defined and the model is expected to calculate the result of some expression consisting of those defined operators. This tests the model’s ability to handle mathematical abstractions and apply them appropriately.|
+| 2022 | BIG-bench repeat copy logic |  | Big bench repeat copy logic consists of 32 tasks in which the model is commanded to repeat some combination of words some number of times in a particular order, and the model is expected to output the correct result.|
+| 2021 | Math QA |  | Math QA consists of 2,983 four-choice multiple choice math word problems. The questions require basic reasoning, language comprehension, and arithmetic/algebraic skills.Random baseline accuracy: 25%|
+| 2021 | LogiQA |  | LogiQA consists of 651 four-choice multiple choice logical word problems.The questions involve making logical deductions based on mathematical and symbolic descriptions of problems.Random baseline accuracy: 25% |
 ---
 ## Reading Comprehension 
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
@@ -180,7 +188,10 @@
 
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
-|  |  |  |
+| 2022 | BIG-bench: Understanding fables |  | Understanding fables consists of 189 short stories followed by 4-choice multiple choice in which the model must select the correct moral for the story.Random baseline accuracy: 25% |
+| 2019 | Pubmed QA Labeled |  | Pubmed QA Labeled consists of 1000 hand-labeled medical documents followed by a related question for which the model must respond yes/no/maybe. |
+| 2019 | Pubmed QA Labeled |  | ‍Pubmed QA Labeled consists of 1000 hand-labeled medical documents followed by a related question for which the model must respond yes/no/maybe. |
+| 2016 | SQuAD |  | SQuAD consists of 10,570 short documents followed by a related question. The documents range from short news clippings about sports events, to blurbs explaining concepts in physics, to documents about US history. We expect the model to output the exact correct answer. |
 ---
 ## Programming
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
