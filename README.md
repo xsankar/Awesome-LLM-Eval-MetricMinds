@@ -190,7 +190,7 @@
 | :- | :- | :- |:- |
 | 2022 | BIG-bench: Understanding fables |  | Understanding fables consists of 189 short stories followed by 4-choice multiple choice in which the model must select the correct moral for the story.Random baseline accuracy: 25% |
 | 2019 | Pubmed QA Labeled |  | Pubmed QA Labeled consists of 1000 hand-labeled medical documents followed by a related question for which the model must respond yes/no/maybe. |
-| 2019 | Pubmed QA Labeled |  | ‍Pubmed QA Labeled consists of 1000 hand-labeled medical documents followed by a related question for which the model must respond yes/no/maybe. |
+| 2019 | BoolQ |  | ‍BoolQ consists of 3,270 short passages on a diverse range of subjects followed by a yes/no questions. The model is expected to answer in multiple-choice format. 5153 samples of text curated from the books corpus. Consists of a several hundred word paragraph in which the model is expected to predict the next word. Random baseline accuracy: ~50% |
 | 2016 | SQuAD |  | SQuAD consists of 10,570 short documents followed by a related question. The documents range from short news clippings about sports events, to blurbs explaining concepts in physics, to documents about US history. We expect the model to output the exact correct answer. |
 ---
 ## Programming
