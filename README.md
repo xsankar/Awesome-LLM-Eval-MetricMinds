@@ -1,6 +1,9 @@
 ### Awesome-LLM-Eval-MetricMinds : All things for LLM Evaluation
 #### _[Back to TOC](https://github.com/xsankar/Awesome-Awesome-LLM)_
 > [About Me](https://www.linkedin.com/in/ksankar) [Blog](https://ksankar.medium.com)
+> 
+> ***As of 11.30.23 I am working hard to build the repos - takes time to review and curate. Appreciate your patience ... Thanks ...***
+> 
 ***
 | [Survey Paper Collection](#survey-papers) | [General Theory](#general-theory) | [Evaluation Experiments](#evaluation-experiments) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) |[Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) | [Data Leakage](#data-leakage)|
 | :-: | :-: | :-: | :-: |:-: |:-: |:-: |:-: |:-: |
