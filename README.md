@@ -129,6 +129,7 @@
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
 |  | DecodingTrust (Metrics : Adversarial Accuracy, Distributional Shift) |  |
+|  | https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness |  |
 ---
 ## Factuality
 [<img src="images/back_button.png" width="25" height="25">Top](#metrics--benchmarks-by-topic)
