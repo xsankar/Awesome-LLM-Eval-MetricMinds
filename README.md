@@ -6,7 +6,7 @@
 > | :- |
 > 
 ---
-| [Survey & Analytical Paper Collection](#survey-papers) | [General Theory](#general-theory) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) |
+| [Survey & Analytical Paper Collection](#survey--analytical-papers) | [General Theory](#general-theory) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) |
 | :-: | :-: | :-: | :-: |
 ---
 | [Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) | [Data Leakage](#data-leakage)|
