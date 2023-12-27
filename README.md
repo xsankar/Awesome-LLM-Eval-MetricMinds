@@ -9,7 +9,7 @@
 | [Survey & Analytical Paper Collection](#survey--analytical-papers) | [Guardrail Platforms](#guardrail-platforms) | [Multi Metric Frameworks](#multi-metric-evaluation-frameworks) | [Metrics & Benchmarks by topic](#metrics--benchmarks-by-topic) | [Datasets](#datasets) |  [Data Leakage](#data-leakage) | [Other Repos](#other-repos) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 ---
-### Metrics & Benchmarks by topic Menu (See [LLM Evaluation Topics for a quick intro](#llm-evaluation-topics))
+### Metrics & Benchmarks by Topic (See [LLM Evaluation Topics for a quick intro](#llm-evaluation-topics))
 
 | [Dialogue Kinetics](#dialogue-kinetics) | [Bias](#bias) | [Toxicity](#toxicity) | [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) | [Alignment](#alignment) |
 | :- | :- | :- | :- |:- |:- |:- | :- |
