@@ -6,11 +6,8 @@
 > | :- |
 > 
 ---
-| [Survey & Analytical Paper Collection](#survey--analytical-papers) | [General Theory](#general-theory) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) |
-| :-: | :-: | :-: | :-: |
----
-| [Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) | [Data Leakage](#data-leakage)|
-| :-: | :-: | :-: | :-: |
+| [Survey & Analytical Paper Collection](#survey--analytical-papers) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) | [Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) | [Data Leakage](#data-leakage)|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 ***
 ### Some Concepts
 ![OpenAI](./images/NPS-v07-p26.png)
@@ -42,12 +39,6 @@
 | 06.2023 | [DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs/2306.11698) | |
 | 11.2022 | [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110) |  |
 | 11.2021 | [A Systematic Investigation of Commonsense Knowledge in Large Language Models](https://arxiv.org/abs/2111.00607) | EMNLP/Dubai 2022 | 
-***
-## General Theory 
-[<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
-| Year | Title | Notes | 
-| :-: | :-: | :-: |
-|  |  | 
 ***
 ## Guardrail Platforms
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
