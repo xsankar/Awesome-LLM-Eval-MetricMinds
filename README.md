@@ -261,6 +261,8 @@
 | Repo | Notes | 
 | :- | :- |
 |[Papers and resources for LLMs evaluation](https://github.com/MLGroupJLU/LLM-eval-survey) | Exhaustive list of benchmarks |
+| https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers | |
+| https://github.com/onejune2018/Awesome-LLM-Eval | |
 ***
 ## Data Leakage 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
