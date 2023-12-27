@@ -80,7 +80,7 @@
 | [World Knowledge](#world-knowledge) | [Commonsense Reasoning](#commonsense-reasoning) | [Language Understanding](#language-understanding) | [Symbolic Problem Solving](#symbolic-problem-solving) | [Reading Comprehension](#reading-comprehension) | [Programming](programming) |
 | :- | :- | :- | :- |:- |:- |
 ***
-![OpenAI](./images/LLMSec_P22.jpeg)
+![OpenAI](./images/LLMSec_P22a.jpeg)
 ***
 ![OpenAI](./images/LLMSec_P23.jpeg)
 ***
