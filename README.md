@@ -110,7 +110,7 @@
 | Stereotype Bias |  | HELM (Holistic Evaluation of Language Models) | Dataset - Bias Benchmark for Question Answering (BBQ) |  |
 | Stereotype Bias |  | [BigBench](https://crfm.stanford.edu/helm/latest/) | Dataset - Bias Benchmark for Question Answering (BBQ) |  |
 | Fairness |  | DecodingTrust | Dataset - UCI Adult dataset [Ding et al., 2021](https://arxiv.org/abs/2108.04884) | (Metrics : Demographic Parity, Equalized Odds, Treatment Equality, Individual/Group Fairness) |
-| Representation of Subjective Opinions |  | Set out in Durmus et al. (2023) arXiv:2306.16388 | GlobalOpinionQA |  |
+| Representation of Subjective Opinions |  | [Towards Measuring the Representation of Subjective Global Opinions in Language Models](https://arxiv.org/abs/2306.16388) | GlobalOpinionQA |  |
 | Capability Fairness |  | HELM | Dataset-TwitterAAE |  |
 | Fairness | | Jurity | open source fairness testing package maintained by Fidelity Investments |
 ---
