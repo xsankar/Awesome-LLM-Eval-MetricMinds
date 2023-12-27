@@ -6,7 +6,7 @@
 > | :- |
 > 
 ---
-| [Survey & Analytical Paper Collection](#survey--analytical-papers) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) | [Metrics & Benchmarks by topic](#metrics--benchmarks-by-topic) | [Datasets](#datasets) |  [Data Leakage](#data-leakage) | [Other Repos](#other-repos) |
+| [Survey & Analytical Paper Collection](#survey--analytical-papers) | [Guardrail Platforms](#guardrail-platforms) | [Multi Metric Frameworks](#multi-metric-frameworks) | [Metrics & Benchmarks by topic](#metrics--benchmarks-by-topic) | [Datasets](#datasets) |  [Data Leakage](#data-leakage) | [Other Repos](#other-repos) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 ---
 ### Metrics & Benchmarks by topic Menu (See [LLM Evaluation Topics for a qick intro](#llm-evaluation-topics))
@@ -46,7 +46,7 @@
 | 11.2021 | [A Systematic Investigation of Commonsense Knowledge in Large Language Models](https://arxiv.org/abs/2111.00607) | EMNLP/Dubai 2022 | 
 ***
 ## Guardrail Platforms
-[<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
+[<img src="images/back_button_2.png" width="25" height="25">](#llm-evaluation-concepts)
 | Type | Title | Notes | 
 | -: | :- | :- |
 | Evaluation Guardrail | [Trulens](https://www.trulens.org/) | By TruEra. Truthfulness, Question answering relevance, Harmful or toxic language, User sentiment, Language mismatch, Response verbosity, LLM Augmentation | 
@@ -57,8 +57,8 @@
 | Guardrail | [Nvidia Nemo Framework](https://developer.nvidia.com/nemo) | Monitoring communication in both directions, Topical guardrails, Safety guardrails (response), Security guardrails (malicious code) |
 | Guardrail for aws bedrock | [Bedrock Guardrails](https://aws.amazon.com/bedrock/guardrails/) | |
 ***
-## Multi Benchmark Evaluation Frameworks 
-[<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
+## Multi Metric Evaluation Frameworks 
+[<img src="images/back_button_2.png" width="25" height="25">](#llm-evaluation-concepts)
 >
 | Year | Title | Notes | 
 | :- | :- | :- |
@@ -70,8 +70,8 @@
 | 11.2023| [IFEval](https://arxiv.org/abs/2311.07911) | 25 types of verifiable instructions and constructed around 500 prompts |
 | | [Giskard](https://huggingface.co/blog/JMJM/giskard-llm-testing-and-debugging-hf) | Multiple vulnerabilities |
 ***
-## Metrics & Benchmarks by topic 
-[<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
+## Metrics & Benchmarks by Topic 
+[<img src="images/back_button_2.png" width="25" height="25">](#llm-evaluation-concepts)
 ---
 | [Dialogue Kinetics](#dialogue-kinetics) | [Bias](#bias) | [Toxicity](#toxicity) | [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) | [Alignment](#alignment) |
 | :- | :- | :- | :- |:- |:- |:- | :- |
@@ -86,7 +86,7 @@
 ![OpenAI](./images/LLMSec_P23.jpeg)
 ***
 ## Dialogue Kinetics
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+[<img src="images/back_button.png" width="25" height="25">](#metrics--benchmarks-by-topic)
 > Manner in which an LLM is interacting with the users
 > > a.k.a. _Interactional Dynamics_ - This term encompasses the various elements and factors that come into play during a conversation, including communication styles, tonality, responsiveness, and other aspects that contribute to the overall dynamics of the interaction.
 > > Movement, energy, and interactive nature of communication within a conversation.
@@ -100,7 +100,7 @@
 |  |  |  |
 ---
 ## Bias
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+[<img src="images/back_button.png" width="25" height="25">](#metrics--benchmarks-by-topic)
 > Evaluation frameworks and datasets for different types of bias
 
 | Type | Year | Title | Github/Dataset | Notes | 
@@ -113,7 +113,7 @@
 | Fairness | | Jurity | open source fairness testing package maintained by Fidelity Investments |
 ---
 ## Toxicity
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+[<img src="images/back_button.png" width="25" height="25">](#metrics--benchmarks-by-topic)
 > HAP (Hate,Abuse,Profanity)
 
 | Type | Year | Title | Github/Dataset | Notes | 
@@ -123,7 +123,7 @@
 | Toxicity Score |  | BLEU framework | [Hugging Face based Toxicity Score](https://huggingface.co/spaces/evaluate-measurement/toxicity) | (Metrics : BLEU Score, WER) |
 ---
 ## Robustness
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+[<img src="images/back_button.png" width="25" height="25">](#metrics--benchmarks-by-topic)
 > Emergent Behavior, Robustness
 > 
 | Year | Title | Github/Dataset | Notes | 
@@ -131,7 +131,7 @@
 |  | DecodingTrust (Metrics : Adversarial Accuracy, Distributional Shift) |  |
 ---
 ## Factuality
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+[<img src="images/back_button.png" width="25" height="25">](#metrics--benchmarks-by-topic)
 > Factuality, Relevance (Context/Question), Coherence, Groundedness, Comprehensiveness
 > Dark Patterns _e.g., CFPB “Luring Test” a.k.a. Dark Patterns : design strategies used to trick consumers during their purchasing experience and guide them to decisions they would not make otherwise - ranging from manipulation to deception_
 > 
@@ -144,7 +144,7 @@
 |  |  | TruthfulQA | |
 ---
 ## Hallucination
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+[<img src="images/back_button.png" width="25" height="25">](#metrics--benchmarks-by-topic)
 > TBD
 > 
 | Year | Title | Github/Dataset | Notes | 
@@ -153,7 +153,7 @@
 | | Generative Assessment Project | [Project Site - Arthur.ai](https://www.arthur.ai/gap) | [Interesting dataset - Databricks Dolly 15K](https://huggingface.co/datasets/databricks/databricks-dolly-15k)|
 ---
 ## Accuracy
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+[<img src="images/back_button.png" width="25" height="25">](#metrics--benchmarks-by-topic)
 > TBD
 >
 | Year | Title | Github/Dataset | Notes | 
@@ -161,7 +161,7 @@
 |  |  |  | Metrics : Perplexity, Entropy, BPC |
 ---
 ## Alignment
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+[<img src="images/back_button.png" width="25" height="25">](#metrics--benchmarks-by-topic)
 > TBD
 >
 | Year | Title | Github/Dataset | Notes | 
@@ -169,7 +169,7 @@
 | 2023 | [FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets](https://arxiv.org/abs/2307.10928) | [GitHub](https://github.com/kaistAI/FLASK) |  |
 ---
 ## World Knowledge 
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+[<img src="images/back_button.png" width="25" height="25">](#metrics--benchmarks-by-topic)
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
 | 2022 | Jeopardy | [Jeopardy Data at Higginface](https://huggingface.co/datasets/jeopardy) | Jeopardy consists of 2,117 Jeopardy questions separated into 5 categories: Literature, American History, World History, Word Origins, and Science. The model is expected to give the exact correct response to the question. (MosaicML has custom curated the larger Jeopardy set available on Huggingface for their evaluation framework)|
@@ -180,7 +180,7 @@
 | 2018 | ARC challenge | [Leaderboard & Dataset - Allen Institute for AI](https://allenai.org/data/arc) | ARC challenge consists of 1,172 hard four-choice multiple choice science questions drawn from grade 3-9 science exams. The questions rely on scientific world knowledge and some procedural reasoning |
 ---
 ## Commonsense Reasoning 
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+[<img src="images/back_button.png" width="25" height="25">](#metrics--benchmarks-by-topic)
 > Commonsense reasoning tests the models’ ability to perform basic reasoning tasks that require commonsense knowledge of objects, their properties, and their behavior.
 > 
 | Year | Title | Github/Dataset | Notes | 
@@ -199,7 +199,7 @@
 | 2011 | COPA | | COPA consists of 100 cause/effect multiple choice questions in which the model is prompted with a premise and the model must choose correctly between two possible causes/effects of the premise. Random baseline accuracy: 50% |
 ---
 ## Language Understanding
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+[<img src="images/back_button.png" width="25" height="25">](#metrics--benchmarks-by-topic)
 > Language understanding tasks evaluate the model’s ability to understand the structure and properties of languages, including determining which types of sentences are more likely than others, performing translations between languages, and identifying languages.
 > 
 | Year | Title | Github/Dataset | Notes | 
@@ -210,7 +210,7 @@
 | 2012 | BIG bench language identification |  | BIG bench language identification consists of 10,000 four-choice multiple choice questions in which a sentence in some language besides english is presented and the model is prompted to identify the language of the sentence amongst four options. Random baseline accuracy: 25% |
 ---
 ## Symbolic Problem Solving 
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+[<img src="images/back_button.png" width="25" height="25">](#metrics--benchmarks-by-topic)
 > Symbolic problem solving tasks test the model’s ability to solve a diverse range of symbolic tasks including arithmetic, logical reasoning, algorithms, and algebra.
 >
 | Year | Title | Github/Dataset | Notes | 
@@ -227,7 +227,7 @@
 | 2021 | LogiQA |  | LogiQA consists of 651 four-choice multiple choice logical word problems.The questions involve making logical deductions based on mathematical and symbolic descriptions of problems.Random baseline accuracy: 25% |
 ---
 ## Reading Comprehension 
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+[<img src="images/back_button.png" width="25" height="25">](#metrics--benchmarks-by-topic)
 > Reading comprehension benchmarks test a model’s ability to answer questions based on the information in a passage of text. It includes a number of multiple choice benchmarks as well as some benchmarks that require the model to output an exact correct answer.
 
 | Year | Title | Github/Dataset | Notes | 
@@ -238,7 +238,7 @@
 | 2016 | SQuAD |  | SQuAD consists of 10,570 short documents followed by a related question. The documents range from short news clippings about sports events, to blurbs explaining concepts in physics, to documents about US history. We expect the model to output the exact correct answer. |
 ---
 ## Programming
-[<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
+[<img src="images/back_button.png" width="25" height="25">](#metrics--benchmarks-by-topic)
 > Programming tasks evaluate the model's ability to understand code, write functionally correct code given a specification, simulate code, and document code.
 
 | Year | Title | Github/Dataset | Notes | 
@@ -246,13 +246,13 @@
 | 2022 | [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)  | [Github](https://github.com/openai/human-eval) [Dataset](https://paperswithcode.com/dataset/humaneval) | HumanEval code generation - consists of 164 python programming challenges, in which the model is presented with the method signature and docstring comment for a python program and is expected to complete the program. We then test the resultant code’s functional correctness on a number of test input/output pairs. |
 ***
 ## Datasets 
-[<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
+[<img src="images/back_button_2.png" width="25" height="25">](#llm-evaluation-concepts)
 | Year | Title | Notes | 
 | :- | :- | :- |
 |  | [Jeopardy Data at Higginface](https://huggingface.co/datasets/jeopardy) |  |
 ***
 ## Other Repos 
-[<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
+[<img src="images/back_button_2.png" width="25" height="25">](#llm-evaluation-concepts)
 | Repo | Notes | 
 | :- | :- |
 |[Papers and resources for LLMs evaluation](https://github.com/MLGroupJLU/LLM-eval-survey) | Exhaustive list of benchmarks |
@@ -260,7 +260,7 @@
 | https://github.com/onejune2018/Awesome-LLM-Eval | |
 ***
 ## Data Leakage 
-[<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
+[<img src="images/back_button_2.png" width="25" height="25">](#llm-evaluation-concepts)
 >
 | Type | Year | Title | Notes | 
 | :- | :- | :- | :- |
