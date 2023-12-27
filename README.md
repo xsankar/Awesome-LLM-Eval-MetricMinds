@@ -29,7 +29,7 @@
 | [Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) | [Data Leakage](#data-leakage)|
 | :-: | :-: | :-: | :-: |
 ***
-## Survey & Analyticsl Papers 
+## Survey & Analytical Papers 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
 | Year | Title | Notes | 
 | -: | :- | :- |
