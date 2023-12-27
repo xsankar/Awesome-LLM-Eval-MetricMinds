@@ -1,5 +1,5 @@
 ### Awesome-LLM-Eval-MetricMinds : All things for LLM Evaluation
-#### _[Back to TOC](https://github.com/xsankar/Awesome-Awesome-LLM)_
+#### _[<img src="images/back_button_2.png" width="25" height="25">Back to TOC](https://github.com/xsankar/Awesome-Awesome-LLM)_
 > [About Me](https://www.linkedin.com/in/ksankar) [Blog](https://ksankar.medium.com)
 > 
 > |***As of 11.30.23, I am working hard to build the repos - takes time to review and curate. Appreciate your patience ... Thanks ...***|
@@ -32,7 +32,7 @@
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 ***
 ## Survey & Analytical Papers 
-[<img src="images/back_button_2.png" width="25" height="25">](#llm-evaluation-concepts)
+[<img src="images/back_button_2.png" width="25" height="25">Top](#llm-evaluation-concepts)
 | Year | Title | Notes | 
 | -: | :- | :- |
 | | Survey Papers | |
@@ -64,7 +64,7 @@
 | :- | :- | :- |
 | 2023 | [MosaicML Eval Gauntlet](https://www.mosaicml.com/llm-evaluation) | Good eval framework. Encompasses 34 different benchmarks, organized into 6 broad categories of competency that we expect good foundation models to have. Their categorization is very useful - I am borrowing some of their ideas ! |
 | 2023 | [OpenCompass](https://github.com/open-compass/opencompass) | Extensive dataset support, good dataset list |
-| 2023 | [GAIA: a benchmark for General AI Assistants](https://huggingface.co/papers/2311.12983) | Hugginface questions |
+| 2023 | [GAIA: A benchmark for General AI Assistants](https://huggingface.co/papers/2311.12983) | Hugginface questions |
 | | [Language Model Evaluation Harness - EleutherAI](https://github.com/EleutherAI/lm-evaluation-harnes) | 200+ subtasks / evaluation settings implemented |
 | | [Alpaca Eval](https://github.com/tatsu-lab/alpaca_eval) | An Automatic Evaluator for Instruction-following Language Models |
 | 11.2023| [IFEval](https://arxiv.org/abs/2311.07911) | 25 types of verifiable instructions and constructed around 500 prompts |
@@ -72,6 +72,7 @@
 ***
 ## Metrics & Benchmarks by Topic 
 [<img src="images/back_button_2.png" width="25" height="25">Top](#llm-evaluation-concepts)
+>
 ---
 | [Dialogue Kinetics](#dialogue-kinetics) | [Bias](#bias) | [Toxicity](#toxicity) | [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) | [Alignment](#alignment) |
 | :- | :- | :- | :- |:- |:- |:- | :- |
