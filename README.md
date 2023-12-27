@@ -80,6 +80,10 @@
 | [World Knowledge](#world-knowledge) | [Commonsense Reasoning](#commonsense-reasoning) | [Language Understanding](#language-understanding) | [Symbolic Problem Solving](#symbolic-problem-solving) | [Reading Comprehension](#reading-comprehension) | [Programming](programming) |
 | :- | :- | :- | :- |:- |:- |
 ***
+![OpenAI](./images/LLMSec_P22.jpeg)
+***
+![OpenAI](./images/LLMSec_P23.jpeg)
+***
 ## Dialogue Kinetics
 [<img src="images/back_button.png" width="25" height="25">](#frameworks--benchmarks-by-topic)
 > Manner in which an LLM is interacting with the users
