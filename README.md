@@ -16,7 +16,7 @@
 ***
 ![OpenAI](./images/NPS-v07-p29.png)
 ***
-![OpenAI](./images/NPS-v07-p30.png)
+![OpenAI](./images/LLMSec_P25.jpeg)
 ***
 ![OpenAI](./images/NPS-v07-p31.png)
 ***
