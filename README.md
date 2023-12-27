@@ -6,8 +6,14 @@
 > | :- |
 > 
 ---
-| [Survey & Analytical Paper Collection](#survey--analytical-papers) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) | [Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) | [Data Leakage](#data-leakage)|
+| [Survey & Analytical Paper Collection](#survey--analytical-papers) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) | [Metrics & Benchmarks by topic](#metrics--benchmarks-by-topic) | [Datasets](#datasets) |  [Data Leakage](#data-leakage) | [Other Repos](#other-repos) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+---
+| [Dialogue Kinetics](#dialogue-kinetics) | [Bias](#bias) | [Toxicity](#toxicity) | [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) | [Alignment](#alignment) |
+| :- | :- | :- | :- |:- |:- |:- | :- |
+---
+| [World Knowledge](#world-knowledge) | [Commonsense Reasoning](#commonsense-reasoning) | [Language Understanding](#language-understanding) | [Symbolic Problem Solving](#symbolic-problem-solving) | [Reading Comprehension](#reading-comprehension) | [Programming](programming) |
+| :- | :- | :- | :- |:- |:- |
 ***
 ### Some Concepts
 ![OpenAI](./images/NPS-v07-p26.png)
@@ -20,11 +26,8 @@
 ***
 ![OpenAI](./images/NPS-v07-p31.png)
 ***
-| [Survey Paper Collection](#survey-papers) | [General Theory](#general-theory) | [Evaluation Experiments](#evaluation-experiments) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) |
-| :-: | :-: | :-: | :-: |:-: |
-***
-| [Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) | [Data Leakage](#data-leakage)|
-| :-: | :-: | :-: | :-: |
+| [Survey & Analytical Paper Collection](#survey--analytical-papers) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) | [Metrics & Benchmarks by topic](#metrics--benchmarks-by-topic) | [Datasets](#datasets) | [Data Leakage](#data-leakage) | [Other Repos](#other-repos) |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 ***
 ## Survey & Analytical Papers 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
@@ -65,7 +68,7 @@
 | 11.2023| [IFEval](https://arxiv.org/abs/2311.07911) | 25 types of verifiable instructions and constructed around 500 prompts |
 | | [Giskard](https://huggingface.co/blog/JMJM/giskard-llm-testing-and-debugging-hf) | Multiple vulnerabilities |
 ***
-## Frameworks & Benchmarks by topic 
+## Metrics & Benchmarks by topic 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
 ---
 | [Dialogue Kinetics](#dialogue-kinetics) | [Bias](#bias) | [Toxicity](#toxicity) | [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) | [Alignment](#alignment) |
