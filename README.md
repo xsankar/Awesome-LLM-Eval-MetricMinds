@@ -6,7 +6,7 @@
 > | :- |
 > 
 ---
-| [Survey Paper Collection](#survey-papers) | [General Theory](#general-theory) | [Evaluation Experiments](#evaluation-experiments) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) |
+| [Survey & Analytical Paper Collection](#survey-papers) | [General Theory](#general-theory) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) |
 | :-: | :-: | :-: | :-: |:-: |
 ---
 | [Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) | [Data Leakage](#data-leakage)|
@@ -29,7 +29,7 @@
 | [Frameworks & Benchmarks by topic](#frameworks--benchmarks-by-topic) | [Datasets](#datasets) | [Other Repos](#other-repos) | [Data Leakage](#data-leakage)|
 | :-: | :-: | :-: | :-: |
 ***
-## Survey Papers 
+## Survey & Analyticsl Papers 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
 | Year | Title | Notes | 
 | -: | :- | :- |
@@ -41,19 +41,14 @@
 | | Analytical Papers | |
 | 11.2022 | [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110) |  |
 | 2021 | [A Systematic Investigation of Commonsense Knowledge in Large Language Models](https://arxiv.org/abs/2111.00607) |  |
+| 2023 | [DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs/2306.11698) | |
+| 11.2021 | [A Systematic Investigation of Commonsense Knowledge in Large Language Models](https://arxiv.org/abs/2111.00607) | EMNLP/Dubai 2022 | 
 ***
 ## General Theory 
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
 | Year | Title | Notes | 
 | :-: | :-: | :-: |
 |  |  | 
-***
-## Evaluation Experiments 
-[<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
-| Year | Title | Notes | 
-| -: | :- | :- |
-| 2023 | [DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs/2306.11698) | |
-| 11.2021 | [A Systematic Investigation of Commonsense Knowledge in Large Language Models](https://arxiv.org/abs/2111.00607) | EMNLP/Dubai 2022 | 
 ***
 ## Guardrail Platforms
 [<img src="images/back_button_2.png" width="25" height="25">](#some-concepts)
