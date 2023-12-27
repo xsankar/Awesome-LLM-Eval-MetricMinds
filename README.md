@@ -69,6 +69,7 @@
 | | [Alpaca Eval](https://github.com/tatsu-lab/alpaca_eval) | An Automatic Evaluator for Instruction-following Language Models |
 | 11.2023| [IFEval](https://arxiv.org/abs/2311.07911) | 25 types of verifiable instructions and constructed around 500 prompts |
 | | [Giskard](https://huggingface.co/blog/JMJM/giskard-llm-testing-and-debugging-hf) | Multiple vulnerabilities |
+| | https://github.com/FastEval/FastEval | |
 ***
 ## Metrics & Benchmarks by Topic 
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
