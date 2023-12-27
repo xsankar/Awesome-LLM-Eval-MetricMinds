@@ -251,6 +251,7 @@
 | Year | Title | Notes | 
 | :- | :- | :- |
 |  | [Jeopardy Data at Higginface](https://huggingface.co/datasets/jeopardy) |  |
+|  | https://github.com/aigoopy/llm-jeopardy | Results. Not sure where the data sets come from |
 ***
 ## Other Repos 
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
