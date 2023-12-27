@@ -12,7 +12,7 @@
 ### Some Concepts
 ![OpenAI](./images/NPS-v07-p26.png)
 ***
-![OpenAI](./images/NPS-v07-p27.png)
+![OpenAI](./images/LLMSec_P28.png)
 ***
 ![OpenAI](./images/NPS-v07-p29.png)
 ***
