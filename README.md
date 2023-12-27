@@ -9,7 +9,7 @@
 | [Survey & Analytical Paper Collection](#survey--analytical-papers) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) | [Metrics & Benchmarks by topic](#metrics--benchmarks-by-topic) | [Datasets](#datasets) |  [Data Leakage](#data-leakage) | [Other Repos](#other-repos) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 ---
-### Metrics & Benchmarks by topic Menu
+### Metrics & Benchmarks by topic Menu (See [LLM Evaluation Topics for a qick intro](#llm-evaluation-topics))
 
 | [Dialogue Kinetics](#dialogue-kinetics) | [Bias](#bias) | [Toxicity](#toxicity) | [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) | [Alignment](#alignment) |
 | :- | :- | :- | :- |:- |:- |:- | :- |
@@ -17,7 +17,7 @@
 | [World Knowledge](#world-knowledge) | [Commonsense Reasoning](#commonsense-reasoning) | [Language Understanding](#language-understanding) | [Symbolic Problem Solving](#symbolic-problem-solving) | [Reading Comprehension](#reading-comprehension) | [Programming](programming) |
 | :- | :- | :- | :- |:- |:- |
 ***
-### Some Concepts
+### LLM Evaluation Concepts
 ![OpenAI](./images/NPS-v07-p26.png)
 ***
 ![OpenAI](./images/LLMSec_P28.jpeg)
@@ -79,6 +79,8 @@
 | [World Knowledge](#world-knowledge) | [Commonsense Reasoning](#commonsense-reasoning) | [Language Understanding](#language-understanding) | [Symbolic Problem Solving](#symbolic-problem-solving) | [Reading Comprehension](#reading-comprehension) | [Programming](programming) |
 | :- | :- | :- | :- |:- |:- |
 ***
+### LLM Evaluation Topics
+
 ![OpenAI](./images/LLMSec_P22a.jpeg)
 ***
 ![OpenAI](./images/LLMSec_P23.jpeg)
