@@ -56,6 +56,7 @@
 | Guardrails.ai | [Guardrail](https://github.com/guardrails-ai/guardrails)| [Nvidia nemo + Guardrails](https://arize.com/blog-course/guardrails-what-are-they-and-how-can-you-use-nemo-and-guardrails-ai-to-safeguard-llms/) | 
 | Guardrail | [Nvidia Nemo Framework](https://developer.nvidia.com/nemo) | Monitoring communication in both directions, Topical guardrails, Safety guardrails (response), Security guardrails (malicious code) |
 | Guardrail for aws bedrock | [Bedrock Guardrails](https://aws.amazon.com/bedrock/guardrails/) | |
+| Evaluation | Quotient AI | Stealth as of 12.27.23 |
 ***
 ## Multi Metric Evaluation Frameworks 
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
