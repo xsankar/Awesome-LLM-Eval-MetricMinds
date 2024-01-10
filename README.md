@@ -36,7 +36,10 @@
 | Year | Title | Notes | 
 | -: | :- | :- |
 | | Survey Papers | |
+| 01.2024 | [A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models](https://arxiv.org/abs/2401.01313) | |
 | 11.2023 | [A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions](https://github.com/LuckyyySTA/Awesome-LLM-hallucination) | |
+| 10.2023 | [The Troubling Emergence of Hallucination in Large Language Models – An Extensive Definition, Quantification, and Prescriptive Remediations](https://arxiv.org/pdf/2310.04988.pdf) | |
+| 09.2023 | [A Survey of Hallucination in Large Foundation Models](https://arxiv.org/abs/2309.05922) | |
 | 10.2023 | [Cataloguing LLM Evaluations](https://aiverifyfoundation.sg/downloads/Cataloguing_LLM_Evaluations.pdf) | from [AI verify Foundation SIngapore](https://aiverifyfoundation.sg/) |
 | 10.2023 | [Evaluating Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2310.19736) | |
 | 7.2023 | [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109) | |
