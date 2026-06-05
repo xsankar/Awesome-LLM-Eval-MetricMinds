@@ -13,6 +13,7 @@
 
 | [Dialogue Kinetics](#dialogue-kinetics) | [Bias](#bias) | [Toxicity](#toxicity) | [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) | [Alignment](#alignment) |
 | :- | :- | :- | :- |:- |:- |:- | :- |
+| [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) | Scientific critique & epistemic calibration on recent science summaries | 2026 | BGPT | [dataset](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) · [leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) |
 ---
 | [World Knowledge](#world-knowledge) | [Commonsense Reasoning](#commonsense-reasoning) | [Language Understanding](#language-understanding) | [Symbolic Problem Solving](#symbolic-problem-solving) | [Reading Comprehension](#reading-comprehension) | [Programming](programming) |
 | :- | :- | :- | :- |:- |:- |
