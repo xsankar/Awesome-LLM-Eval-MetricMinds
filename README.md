@@ -105,6 +105,8 @@
 | :- | :- | :- |:- |
 |  |  |  |
 ---
+
+| Political / Values | 2026 | Helium Model Worldview Benchmark | [HF dataset](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark) | 304 paired prompts: safety, values, name-swap, cue-swap, 50 Likert items |
 ## Bias
 [<img src="images/back_button.png" width="25" height="25">Top](#metrics--benchmarks-by-topic)
 > Evaluation frameworks and datasets for different types of bias
