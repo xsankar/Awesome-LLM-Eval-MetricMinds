@@ -67,6 +67,7 @@
 >
 | Year | Title | Notes | 
 | :- | :- | :- |
+| 2025 | [StructEval](https://tiger-ai-lab.github.io/StructEval/) | Structured-output benchmark with 2,035 examples across 18 text and visual formats and 44 task types. [Paper](https://arxiv.org/abs/2505.20139), [Code](https://github.com/TIGER-AI-Lab/StructEval), [Dataset](https://huggingface.co/datasets/TIGER-Lab/StructEval) |
 | 2023 | [MosaicML Eval Gauntlet](https://www.mosaicml.com/llm-evaluation) | Good eval framework. Encompasses 34 different benchmarks, organized into 6 broad categories of competency that we expect good foundation models to have. Their categorization is very useful - I am borrowing some of their ideas ! |
 | 2023 | [OpenCompass](https://github.com/open-compass/opencompass) | Extensive dataset support, good dataset list |
 | 2023 | [GAIA: A benchmark for General AI Assistants](https://huggingface.co/papers/2311.12983) | Hugginface questions |
