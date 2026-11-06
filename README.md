@@ -137,6 +137,7 @@
 > 
 | Year | Title | Github/Dataset | Notes | 
 | :- | :- | :- |:- |
+| 2026 | [Consistency Is Not Understanding: Orbit Audits for Neural Field Weight Readers](https://arxiv.org/abs/2611.05798) |  | Preprint auditing LLM neural-field weight readers under function-preserving permutations and ReLU rescalings; reports accuracy and consistency separately. |
 |  | DecodingTrust (Metrics : Adversarial Accuracy, Distributional Shift) |  |
 |  | https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness |  |
 ---
